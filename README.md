@@ -17,17 +17,19 @@ The following **required** functionality is complete:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [X] List anything else that you can get done to improve the app functionality!
+* Decided to not use the nickname text, and instead opted to change the name text to reflect the nickname that was added. I think this makes it more appealing, imo anyway.
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='name_of_file.gif' title='About Me animated demo' alt='About Me demo' />
+<img src='about_me_demo.gif' title='About Me animated demo' alt='About Me demo' />
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+* None
 
 ## License
 
