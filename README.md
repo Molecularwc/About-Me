@@ -10,8 +10,8 @@ Time spent: <time>
 
 The following **required** functionality is complete:
 
-* [ ] Implement LinearLayout view group with nested ScrollView.
-* [ ] Create and use resources for dimensions, styles, colors, and font.
+* [X] Implement LinearLayout view group with nested ScrollView.
+* [X] Create and use resources for dimensions, styles, colors, and font.
 * [ ] Use data binding to improve efficiency.
 * [ ] App displays a scrollable bio and displays a nickname when button is clicked.
 
