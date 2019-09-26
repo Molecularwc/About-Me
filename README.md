@@ -1,10 +1,10 @@
-# <name of app>
+# About Me
 
 An Android application that displays a short bio about a person.
 
-Submitted by: <name>
+Submitted by: Richard Salvaty
 
-Time spent: <time>
+Time spent: 2 hours
 
 ## User Stories
 
@@ -12,8 +12,8 @@ The following **required** functionality is complete:
 
 * [X] Implement LinearLayout view group with nested ScrollView.
 * [X] Create and use resources for dimensions, styles, colors, and font.
-* [ ] Use data binding to improve efficiency.
-* [ ] App displays a scrollable bio and displays a nickname when button is clicked.
+* [X] Use data binding to improve efficiency.
+* [X] App displays a scrollable bio and displays a nickname when button is clicked.
 
 The following **additional** features are implemented:
 
